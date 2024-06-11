@@ -8,5 +8,7 @@ Projeto disponível no Figma: [](https://www.figma.com/design/Sdwwmy9y2B6eIAvL8D
 
 ![image](https://github.com/MaduSales/Figma-Bike-LandingPage/assets/166547195/5b0a9c04-845a-41c4-8e6d-5f2a05a8aee4)
 </br>
+![image](https://github.com/MaduSales/Figma-Bike-LandingPage/assets/166547195/6264aa35-46f9-4d05-b176-302df7c98983)
+</br>
 </br>
 ![image](https://github.com/MaduSales/Figma-Bike-LandingPage/assets/166547195/423a5587-66cf-4add-be50-0fb2f14aaf89)
