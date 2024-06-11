@@ -2,6 +2,8 @@
 
 Projeto em Figma de uma landing page inspirada na página da marca Cowboy, de bicicletas. Projeto feito somente olhando e comparando as duas landing pages. Não pude criar a landing page completa por falta de recursos como imagens originais das biciletas. Esse é o link da página original: [](https://cowboy.com/)
 
+Protótipo no Figma: [(Clique aqui)](https://www.figma.com/proto/Sdwwmy9y2B6eIAvL8D4ld4/UI%26UX-Bike-Design?node-id=0-1&t=BdvkerT3CNjPS19w-1)
+</br>
 Projeto disponível no Figma: [(Figma UI&UX Cowboy Bike)](https://www.figma.com/design/Sdwwmy9y2B6eIAvL8D4ld4/UI%26UX-Bike-Design?t=BdvkerT3CNjPS19w-1)
 
 # Imagens do Projeto 🚲
